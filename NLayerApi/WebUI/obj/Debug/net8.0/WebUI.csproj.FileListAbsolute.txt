@@ -1,0 +1,362 @@
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\bin\Debug\net8.0\appsettings.Development.json
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\bin\Debug\net8.0\appsettings.json
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.staticwebassets.runtime.json
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.exe
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.deps.json
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.runtimeconfig.json
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.dll
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.pdb
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\bin\Debug\net8.0\RestSharp.dll
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\bin\Debug\net8.0\CommonWeb.dll
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\bin\Debug\net8.0\CommonWeb.pdb
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.csproj.AssemblyReference.cache
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.AssemblyInfoInputs.cache
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.AssemblyInfo.cs
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.csproj.CoreCompileInputs.cache
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.RazorAssemblyInfo.cache
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.RazorAssemblyInfo.cs
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets.build.json
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets.development.json
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.WebUI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.build.WebUI.props
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebUI.props
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebUI.props
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\obj\Debug\net8.0\scopedcss\bundle\WebUI.styles.css
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\obj\Debug\net8.0\scopedcss\projectbundle\WebUI.bundle.scp.css
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.csproj.Up2Date
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.dll
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\obj\Debug\net8.0\refint\WebUI.dll
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.pdb
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.genruntimeconfig.cache
+D:\FSoft Academy\Mock Prj\NLayerApi\WebUI\obj\Debug\net8.0\ref\WebUI.dll
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\bin\Debug\net8.0\appsettings.json
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.staticwebassets.runtime.json
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.exe
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.deps.json
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.runtimeconfig.json
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.dll
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.pdb
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\bin\Debug\net8.0\RestSharp.dll
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\bin\Debug\net8.0\CommonWeb.dll
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\bin\Debug\net8.0\CommonWeb.pdb
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.csproj.AssemblyReference.cache
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.AssemblyInfoInputs.cache
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.AssemblyInfo.cs
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.RazorAssemblyInfo.cache
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.RazorAssemblyInfo.cs
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.WebUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.build.WebUI.props
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebUI.props
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebUI.props
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\scopedcss\bundle\WebUI.styles.css
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\scopedcss\projectbundle\WebUI.bundle.scp.css
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.csproj.Up2Date
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.dll
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\refint\WebUI.dll
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.pdb
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.genruntimeconfig.cache
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\ref\WebUI.dll
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\bin\Debug\net8.0\appsettings.Development.json
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\bin\Debug\net8.0\appsettings.json
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.staticwebassets.runtime.json
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.exe
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.deps.json
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.runtimeconfig.json
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.dll
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.pdb
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\bin\Debug\net8.0\RestSharp.dll
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\bin\Debug\net8.0\CommonWeb.dll
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\bin\Debug\net8.0\CommonWeb.pdb
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.csproj.AssemblyReference.cache
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.AssemblyInfoInputs.cache
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.AssemblyInfo.cs
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.csproj.CoreCompileInputs.cache
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.MvcApplicationPartsAssemblyInfo.cache
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.RazorAssemblyInfo.cache
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.RazorAssemblyInfo.cs
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets.build.json
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets.development.json
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.WebUI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.build.WebUI.props
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebUI.props
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebUI.props
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\scopedcss\bundle\WebUI.styles.css
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\scopedcss\projectbundle\WebUI.bundle.scp.css
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.csproj.Up2Date
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.dll
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\refint\WebUI.dll
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.pdb
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.genruntimeconfig.cache
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\obj\Debug\net8.0\ref\WebUI.dll
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\bin\Debug\net8.0\Castle.Core.dll
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\WebUI\bin\Debug\net8.0\Moq.dll
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\appsettings.json
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.staticwebassets.runtime.json
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.exe
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.deps.json
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.runtimeconfig.json
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.dll
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.pdb
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Moq.dll
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\RestSharp.dll
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\CommonWeb.dll
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\CommonWeb.pdb
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.csproj.AssemblyReference.cache
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.AssemblyInfoInputs.cache
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.AssemblyInfo.cs
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.csproj.CoreCompileInputs.cache
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.RazorAssemblyInfo.cache
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.RazorAssemblyInfo.cs
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.sourcelink.json
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.WebUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.build.WebUI.props
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebUI.props
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebUI.props
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\scopedcss\bundle\WebUI.styles.css
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\scopedcss\projectbundle\WebUI.bundle.scp.css
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.csproj.Up2Date
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.dll
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\refint\WebUI.dll
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.pdb
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.genruntimeconfig.cache
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\ref\WebUI.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\BusinessLogic.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Common.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\DataAccess.dll
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\BusinessLogic.pdb
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Common.pdb
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\ducca\source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\appsettings.json
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.staticwebassets.runtime.json
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.exe
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.deps.json
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.runtimeconfig.json
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.pdb
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Moq.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\RestSharp.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\BusinessLogic.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Common.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\CommonWeb.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\DataAccess.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\BusinessLogic.pdb
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\CommonWeb.pdb
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Common.pdb
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.csproj.AssemblyReference.cache
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.AssemblyInfoInputs.cache
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.AssemblyInfo.cs
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.RazorAssemblyInfo.cache
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.RazorAssemblyInfo.cs
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.sourcelink.json
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.WebUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.build.WebUI.props
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebUI.props
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebUI.props
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\scopedcss\bundle\WebUI.styles.css
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\scopedcss\projectbundle\WebUI.bundle.scp.css
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.csproj.Up2Date
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\refint\WebUI.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.pdb
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.genruntimeconfig.cache
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\ref\WebUI.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\appsettings.json
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.staticwebassets.runtime.json
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.exe
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.deps.json
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.runtimeconfig.json
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\WebUI.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Moq.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\RestSharp.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\BusinessLogic.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Common.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\CommonWeb.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\DataAccess.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\BusinessLogic.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\CommonWeb.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\Common.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.sourcelink.json
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.WebUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.build.WebUI.props
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebUI.props
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebUI.props
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\scopedcss\bundle\WebUI.styles.css
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\scopedcss\projectbundle\WebUI.bundle.scp.css
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.csproj.Up2Date
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\refint\WebUI.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\WebUI.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\obj\Debug\net8.0\ref\WebUI.dll

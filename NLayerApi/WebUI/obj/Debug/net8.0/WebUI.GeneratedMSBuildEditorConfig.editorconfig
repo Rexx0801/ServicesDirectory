@@ -1,0 +1,145 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebUI
+build_property.RootNamespace = WebUI
+build_property.ProjectDir = C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\WebUI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ADMIN/Documents/Zalo Received Files/ServicesDirectory_Premises_Team_4_v2/ServicesDirectory_Premises_Team_4 (1)/ServicesDirectory_Premises_Team_4/NLayerApi/WebUI/Views/Product/VolunteeringOpportunity/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxWb2x1bnRlZXJpbmdPcHBvcnR1bml0eVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Documents/Zalo Received Files/ServicesDirectory_Premises_Team_4_v2/ServicesDirectory_Premises_Team_4 (1)/ServicesDirectory_Premises_Team_4/NLayerApi/WebUI/Views/Product/VolunteeringOpportunity/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxWb2x1bnRlZXJpbmdPcHBvcnR1bml0eVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Documents/Zalo Received Files/ServicesDirectory_Premises_Team_4_v2/ServicesDirectory_Premises_Team_4 (1)/ServicesDirectory_Premises_Team_4/NLayerApi/WebUI/Views/Product/VolunteeringOpportunity/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxWb2x1bnRlZXJpbmdPcHBvcnR1bml0eVxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Documents/Zalo Received Files/ServicesDirectory_Premises_Team_4_v2/ServicesDirectory_Premises_Team_4 (1)/ServicesDirectory_Premises_Team_4/NLayerApi/WebUI/Views/Product/VolunteeringOpportunity/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxWb2x1bnRlZXJpbmdPcHBvcnR1bml0eVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Documents/Zalo Received Files/ServicesDirectory_Premises_Team_4_v2/ServicesDirectory_Premises_Team_4 (1)/ServicesDirectory_Premises_Team_4/NLayerApi/WebUI/Views/Product/VolunteeringOpportunity/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxWb2x1bnRlZXJpbmdPcHBvcnR1bml0eVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Documents/Zalo Received Files/ServicesDirectory_Premises_Team_4_v2/ServicesDirectory_Premises_Team_4 (1)/ServicesDirectory_Premises_Team_4/NLayerApi/WebUI/Views/Facility/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjaWxpdHlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Documents/Zalo Received Files/ServicesDirectory_Premises_Team_4_v2/ServicesDirectory_Premises_Team_4 (1)/ServicesDirectory_Premises_Team_4/NLayerApi/WebUI/Views/Facility/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjaWxpdHlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Documents/Zalo Received Files/ServicesDirectory_Premises_Team_4_v2/ServicesDirectory_Premises_Team_4 (1)/ServicesDirectory_Premises_Team_4/NLayerApi/WebUI/Views/Facility/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjaWxpdHlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Documents/Zalo Received Files/ServicesDirectory_Premises_Team_4_v2/ServicesDirectory_Premises_Team_4 (1)/ServicesDirectory_Premises_Team_4/NLayerApi/WebUI/Views/Facility/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjaWxpdHlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Documents/Zalo Received Files/ServicesDirectory_Premises_Team_4_v2/ServicesDirectory_Premises_Team_4 (1)/ServicesDirectory_Premises_Team_4/NLayerApi/WebUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Documents/Zalo Received Files/ServicesDirectory_Premises_Team_4_v2/ServicesDirectory_Premises_Team_4 (1)/ServicesDirectory_Premises_Team_4/NLayerApi/WebUI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Documents/Zalo Received Files/ServicesDirectory_Premises_Team_4_v2/ServicesDirectory_Premises_Team_4 (1)/ServicesDirectory_Premises_Team_4/NLayerApi/WebUI/Views/MinorWork/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlub3JXb3JrXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Documents/Zalo Received Files/ServicesDirectory_Premises_Team_4_v2/ServicesDirectory_Premises_Team_4 (1)/ServicesDirectory_Premises_Team_4/NLayerApi/WebUI/Views/MinorWork/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlub3JXb3JrXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Documents/Zalo Received Files/ServicesDirectory_Premises_Team_4_v2/ServicesDirectory_Premises_Team_4 (1)/ServicesDirectory_Premises_Team_4/NLayerApi/WebUI/Views/MinorWork/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlub3JXb3JrXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Documents/Zalo Received Files/ServicesDirectory_Premises_Team_4_v2/ServicesDirectory_Premises_Team_4 (1)/ServicesDirectory_Premises_Team_4/NLayerApi/WebUI/Views/MinorWork/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlub3JXb3JrXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Documents/Zalo Received Files/ServicesDirectory_Premises_Team_4_v2/ServicesDirectory_Premises_Team_4 (1)/ServicesDirectory_Premises_Team_4/NLayerApi/WebUI/Views/Premises/ConfirmActivation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlbWlzZXNcQ29uZmlybUFjdGl2YXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Documents/Zalo Received Files/ServicesDirectory_Premises_Team_4_v2/ServicesDirectory_Premises_Team_4 (1)/ServicesDirectory_Premises_Team_4/NLayerApi/WebUI/Views/Premises/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlbWlzZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Documents/Zalo Received Files/ServicesDirectory_Premises_Team_4_v2/ServicesDirectory_Premises_Team_4 (1)/ServicesDirectory_Premises_Team_4/NLayerApi/WebUI/Views/Premises/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlbWlzZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Documents/Zalo Received Files/ServicesDirectory_Premises_Team_4_v2/ServicesDirectory_Premises_Team_4 (1)/ServicesDirectory_Premises_Team_4/NLayerApi/WebUI/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Documents/Zalo Received Files/ServicesDirectory_Premises_Team_4_v2/ServicesDirectory_Premises_Team_4 (1)/ServicesDirectory_Premises_Team_4/NLayerApi/WebUI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Documents/Zalo Received Files/ServicesDirectory_Premises_Team_4_v2/ServicesDirectory_Premises_Team_4 (1)/ServicesDirectory_Premises_Team_4/NLayerApi/WebUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Documents/Zalo Received Files/ServicesDirectory_Premises_Team_4_v2/ServicesDirectory_Premises_Team_4 (1)/ServicesDirectory_Premises_Team_4/NLayerApi/WebUI/Views/VolunteeringOpportunity/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50ZWVyaW5nT3Bwb3J0dW5pdHlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Documents/Zalo Received Files/ServicesDirectory_Premises_Team_4_v2/ServicesDirectory_Premises_Team_4 (1)/ServicesDirectory_Premises_Team_4/NLayerApi/WebUI/Views/VolunteeringOpportunity/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50ZWVyaW5nT3Bwb3J0dW5pdHlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Documents/Zalo Received Files/ServicesDirectory_Premises_Team_4_v2/ServicesDirectory_Premises_Team_4 (1)/ServicesDirectory_Premises_Team_4/NLayerApi/WebUI/Views/VolunteeringOpportunity/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50ZWVyaW5nT3Bwb3J0dW5pdHlcRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Documents/Zalo Received Files/ServicesDirectory_Premises_Team_4_v2/ServicesDirectory_Premises_Team_4 (1)/ServicesDirectory_Premises_Team_4/NLayerApi/WebUI/Views/VolunteeringOpportunity/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50ZWVyaW5nT3Bwb3J0dW5pdHlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Documents/Zalo Received Files/ServicesDirectory_Premises_Team_4_v2/ServicesDirectory_Premises_Team_4 (1)/ServicesDirectory_Premises_Team_4/NLayerApi/WebUI/Views/VolunteeringOpportunity/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9sdW50ZWVyaW5nT3Bwb3J0dW5pdHlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Documents/Zalo Received Files/ServicesDirectory_Premises_Team_4_v2/ServicesDirectory_Premises_Team_4 (1)/ServicesDirectory_Premises_Team_4/NLayerApi/WebUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Documents/Zalo Received Files/ServicesDirectory_Premises_Team_4_v2/ServicesDirectory_Premises_Team_4 (1)/ServicesDirectory_Premises_Team_4/NLayerApi/WebUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Documents/Zalo Received Files/ServicesDirectory_Premises_Team_4_v2/ServicesDirectory_Premises_Team_4 (1)/ServicesDirectory_Premises_Team_4/NLayerApi/WebUI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mv07mvknwk

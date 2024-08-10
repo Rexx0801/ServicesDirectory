@@ -1,0 +1,82 @@
+﻿@model Common.Dto.FacilityDto
+
+<h1>Facility Details</h1>
+<hr />
+<div class="container">
+    <div class="mb-3 row">
+        <label class="col-sm-2 col-form-label">Facility Type</label>
+        <div class="col-sm-10">
+            <p class="form-control-plaintext">@Model.FacilityType</p>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label class="col-sm-2 col-form-label">Facility Description</label>
+        <div class="col-sm-10">
+            <p class="form-control-plaintext">@Model.FacilityDescription</p>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label class="col-sm-2 col-form-label">Room Capacity</label>
+        <div class="col-sm-10">
+            <p class="form-control-plaintext">@Model.RoomCapacity</p>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label class="col-sm-2 col-form-label">Room Size</label>
+        <div class="col-sm-10">
+            <p class="form-control-plaintext">@Model.RoomSize</p>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label class="col-sm-2 col-form-label">Connectivity Type</label>
+        <div class="col-sm-10">
+            <p class="form-control-plaintext">@Model.ConnectivityType</p>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label class="col-sm-2 col-form-label">Wireless Access Information</label>
+        <div class="col-sm-10">
+            <p class="form-control-plaintext">@Model.WirelessAccessInformation</p>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label class="col-sm-2 col-form-label">Lead Contact</label>
+        <div class="col-sm-10">
+            <p class="form-control-plaintext">@Model.LeadContact</p>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label class="col-sm-2 col-form-label">Room Host</label>
+        <div class="col-sm-10">
+            <p class="form-control-plaintext">@Model.RoomHost</p>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label class="col-sm-2 col-form-label">Room and Equipment Notes</label>
+        <div class="col-sm-10">
+            <p class="form-control-plaintext">@Model.RoomAndEquipmentNotes</p>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label class="col-sm-2 col-form-label">Active</label>
+        <div class="col-sm-10">
+            <p class="form-control-plaintext">@Model.IsActive</p>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <div class="col-sm-10 offset-sm-2">
+            <a asp-action="Edit" asp-route-id="@Model.FacilityId" class="btn btn-primary">Edit</a>
+            <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+        </div>
+    </div>
+</div>

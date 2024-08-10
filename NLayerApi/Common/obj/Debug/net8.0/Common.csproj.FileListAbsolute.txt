@@ -1,0 +1,69 @@
+D:\FSoft Academy\Mock Prj\NLayerApi\Common\bin\Debug\net8.0\Common.deps.json
+D:\FSoft Academy\Mock Prj\NLayerApi\Common\bin\Debug\net8.0\Common.dll
+D:\FSoft Academy\Mock Prj\NLayerApi\Common\bin\Debug\net8.0\Common.pdb
+D:\FSoft Academy\Mock Prj\NLayerApi\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\FSoft Academy\Mock Prj\NLayerApi\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+D:\FSoft Academy\Mock Prj\NLayerApi\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+D:\FSoft Academy\Mock Prj\NLayerApi\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+D:\FSoft Academy\Mock Prj\NLayerApi\Common\obj\Debug\net8.0\Common.dll
+D:\FSoft Academy\Mock Prj\NLayerApi\Common\obj\Debug\net8.0\refint\Common.dll
+D:\FSoft Academy\Mock Prj\NLayerApi\Common\obj\Debug\net8.0\Common.pdb
+D:\FSoft Academy\Mock Prj\NLayerApi\Common\obj\Debug\net8.0\ref\Common.dll
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\Common\bin\Debug\net8.0\Common.dll
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\Common\obj\Debug\net8.0\Common.dll
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\PREDATOR\Downloads\ServicesDirectory_Premises_Team_4-main\NLayerApi\Common\obj\Debug\net8.0\ref\Common.dll
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\Common\bin\Debug\net8.0\Common.deps.json
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\Common\bin\Debug\net8.0\Common.dll
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\Common\bin\Debug\net8.0\Common.pdb
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\Common\obj\Debug\net8.0\Common.dll
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\Common\obj\Debug\net8.0\refint\Common.dll
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\Common\obj\Debug\net8.0\Common.pdb
+E:\Tài liệu đại học\Tài liệu\ServicesDirectory_Premises_Team_4-main_v2\ServicesDirectory_Premises_Team_4-main\NLayerApi\Common\obj\Debug\net8.0\ref\Common.dll
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\Common\bin\Debug\net8.0\Common.dll
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\Common\obj\Debug\net8.0\Common.sourcelink.json
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\Common\obj\Debug\net8.0\Common.dll
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\ducca\Source\Repos\ServicesDirectory_Premises_Team_4\NLayerApi\Common\obj\Debug\net8.0\ref\Common.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\Common\bin\Debug\net8.0\Common.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\Common\obj\Debug\net8.0\Common.sourcelink.json
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\Common\obj\Debug\net8.0\Common.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\PREDATOR\Downloads\DEV_THUE\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\Common\obj\Debug\net8.0\ref\Common.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\Common\bin\Debug\net8.0\Common.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\Common\obj\Debug\net8.0\Common.sourcelink.json
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\Common\obj\Debug\net8.0\Common.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\ServicesDirectory_Premises_Team_4_v2\ServicesDirectory_Premises_Team_4 (1)\ServicesDirectory_Premises_Team_4\NLayerApi\Common\obj\Debug\net8.0\ref\Common.dll

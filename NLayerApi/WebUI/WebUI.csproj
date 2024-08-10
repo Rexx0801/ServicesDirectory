@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Moq" Version="4.20.70" />
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+      <PackageReference Include="RestSharp" Version="111.4.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\BusinessLogic\BusinessLogic.csproj" />
+      <ProjectReference Include="..\CommonWeb\CommonWeb.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <AdditionalFiles Include="Views\Product\VolunteeringOpportunity\Create.cshtml" />
+      <AdditionalFiles Include="Views\Product\VolunteeringOpportunity\Delete.cshtml" />
+      <AdditionalFiles Include="Views\Product\VolunteeringOpportunity\Detail.cshtml" />
+      <AdditionalFiles Include="Views\Product\VolunteeringOpportunity\Edit.cshtml" />
+      <AdditionalFiles Include="Views\Product\VolunteeringOpportunity\Index.cshtml" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Include="Views\VolunteeringOpportunity\Create.cshtml" />
+      <None Include="Views\VolunteeringOpportunity\Delete.cshtml" />
+      <None Include="Views\VolunteeringOpportunity\Detail.cshtml" />
+      <None Include="Views\VolunteeringOpportunity\Edit.cshtml" />
+      <None Include="Views\VolunteeringOpportunity\Index.cshtml" />
+    </ItemGroup>
+
+</Project>

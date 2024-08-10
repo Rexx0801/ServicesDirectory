@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Common.Dto.VolunteeringDto>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                <a href="@Url.Action("Index", new { sort = ViewData["SortOrder"]})">
+                    Contact
+                    @if (ViewData["SortOrder"] == "asc")
+                    {
+                        <span>&#9650;</span>
+                    }
+                    else
+                    {
+                        <span>&#9660;</span>
+                    }
+                </a>
+            </th>
+            <th>Purpose</th>
+            <th>VolunteeringOpportunityDetails</th>
+            <th>Start Date</th>
+            <th>End Date</th>
+            <th>Volunteer Nos</th>
+            <th>Is Active?</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.ActionLink(item.VolunteeringContact, "Edit", new { id = item.VolunteeringId })
+                </td>
+                <td>@item.VolunteeringPurpose</td>
+                <td>@item.VolunteeringOpportunityDetails</td>
+                <td>@item.StartDate?.ToString("dd/MM/yyyy")</td>
+                <td>@item.EndDate?.ToString("dd/MM/yyyy")</td>
+                <td>@item.VolunteerNos</td>
+                <td>@(item.IsActive == true ? "Yes" : "No")</td>
+                <td>
+                    <a asp-action="Detail" asp-route-id="@item.VolunteeringId" class="btn btn-sm btn-info">Detail</a>
+                    <a asp-action="Edit" asp-route-id="@item.VolunteeringId" class="btn btn-sm btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@item.VolunteeringId" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

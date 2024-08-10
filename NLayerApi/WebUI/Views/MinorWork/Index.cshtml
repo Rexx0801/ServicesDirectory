@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Common.Dto.MinorWorkDto>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th style="display: none;">No.</th>
+            <input type="hidden" id="sortOrder" name="sortOrder" value="@(ViewData["CurrentSortOrder"] ?? "asc")" />
+            <th style="text-align: center;" id="descriptionHeader">Description(asc/desc)</th>
+            <th style="text-align: center;">Enq Received Date</th>
+            <th style="text-align: center;">Notes Action</th>
+            <th style="text-align: center;">Directorate</th>
+            <th style="text-align: center;">Contact</th>
+            <th style="text-align: center;">Status</th>
+            <th style="text-align: center;">Is Active?</th>
+            <th style="text-align: center;">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td style="display: none;">@item.MinorWorkId</td>
+                <td style="text-align: center;">
+                    @Html.ActionLink(item.Description ?? "No Description", "Edit", new { id = item.MinorWorkId })
+                </td>
+                <td style="text-align: center;">@item.EnqReceivedDate?.ToString("dd/MM/yyyy")</td>
+                <td style="text-align: center;">@item.NotesActions</td>
+                <td style="text-align: center;">@item.Directorate</td>
+                <td style="text-align: center;">@item.Contact </td>
+                <td style="text-align: center;">@(item.Status ? "Completed" : "Pending")</td>
+                <td style="text-align: center;">@(item.IsActive == true ? "Yes" : "No")</td>
+                <td style="text-align: center;">
+                    <a asp-action="Edit" asp-route-id="@item.MinorWorkId" class="btn btn-sm btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@item.MinorWorkId" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<script>
+    document.addEventListener('DOMContentLoaded', (e) => {
+        const desc = document.getElementById('descriptionHeader');
+        const sort = document.getElementById('sortOrder');
+        desc.addEventListener('click', () => {
+            const current = sort.value;
+            const newSort = current == 'asc' ? 'desc' : 'asc';
+            sort.value = newSort;
+
+            window.location.href = `/MinorWork?sortOrder=${newSort}`;
+        });
+    });
+</script>

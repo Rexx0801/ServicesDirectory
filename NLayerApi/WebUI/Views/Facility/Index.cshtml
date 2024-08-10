@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Common.Dto.FacilityDto>
+
+@{
+    ViewData["Title"] = "Facilities";
+}
+
+<h1>Facilities</h1>
+
+<form method="get">
+    <input type="text" name="filter" placeholder="Filter" />
+    <input type="text" name="sort" placeholder="Sort" />
+    <button type="submit">Search</button>
+</form>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>Facility Type</th>
+        <th>Room Capacity</th>
+        <th>Room Size</th>
+        <th>Lead Contact</th>
+        <th>Room Host</th>
+        <th>Actions</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var facility in Model)
+    {
+        <tr>
+            <td>@facility.FacilityType</td>
+            <td>@facility.RoomCapacity</td>
+            <td>@facility.RoomSize</td>
+            <td>@facility.LeadContact</td>
+            <td>@facility.RoomHost</td>
+            <td>
+                <a href="@Url.Action("Details", new { id = facility.FacilityId })">Details</a> |
+                <a href="@Url.Action("Edit", new { id = facility.FacilityId })">Edit</a> |
+                <form asp-action="MarkAsInactive" method="post" style="display:inline;">
+                    <input type="hidden" name="id" value="@facility.FacilityId" />
+                    <button type="submit">Mark as Inactive</button>
+                </form>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+<a href="@Url.Action("Create")">Create New Facility</a>

@@ -1,0 +1,282 @@
+﻿@model Common.Dto.PremiseDto
+
+@{
+    ViewData["Title"] = "Premise Details";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            color: #343a40;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            color: #007bff;
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        h4 {
+            color: #6c757d;
+            margin-bottom: 20px;
+        }
+
+        hr {
+            border: 1px solid #dee2e6;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #ffffff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+
+        table, th, td {
+            border: 1px solid #dee2e6;
+        }
+
+        th, td {
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        .btn-primary {
+            background-color: #007bff;
+            border-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        .btn-danger {
+            background-color: #dc3545;
+            border-color: #dc3545;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        .btn-success {
+            background-color: #28a745;
+            border-color: #28a745;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        .btn {
+            margin-right: 10px;
+        }
+
+        form {
+            display: inline;
+        }
+
+        a {
+            text-decoration: none;
+            color: white;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+
+        .button-container {
+            text-align: center;
+            margin-top: 20px;
+            position: fixed;
+            bottom: 20px;
+            width: 100%;
+            background-color: rgba(255, 0, 0, 0.5);
+            padding: 10px 0;
+            box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Premise Details</h1>
+        <div>
+            <h4>Premise</h4>
+            <hr />
+            <table>
+                <tr>
+                    <th>Field</th>
+                    <th>Details</th>
+                </tr>
+                <tr>
+                    <td>Premise Name</td>
+                    <td>@Model.PremiseName</td>
+                </tr>
+                <tr>
+                    <td>Location Name</td>
+                    <td>@Model.LocationName</td>
+                </tr>
+                <tr>
+                    <td>Known As</td>
+                    <td>@Model.KnownAs</td>
+                </tr>
+                <tr>
+                    <td>Location Status</td>
+                    <td>@Model.LocationStatus</td>
+                </tr>
+                <tr>
+                    <td>Location Status Date</td>
+                    <td>@Model.LocationStatusDate</td>
+                </tr>
+                <tr>
+                    <td>Primary Location</td>
+                    <td>@Model.PrimaryLocation</td>
+                </tr>
+                <tr>
+                    <td>Location Managed</td>
+                    <td>@Model.LocationManaged</td>
+                </tr>
+                <tr>
+                    <td>Stnetwork Connectivity</td>
+                    <td>@Model.StnetworkConnectivity</td>
+                </tr>
+                <tr>
+                    <td>Location Description</td>
+                    <td>@Model.LocationDescription</td>
+                </tr>
+                <tr>
+                    <td>Phone Number</td>
+                    <td>@Model.PhoneNumber</td>
+                </tr>
+                <tr>
+                    <td>General Fax Number</td>
+                    <td>@Model.GeneralFaxNumber</td>
+                </tr>
+                <tr>
+                    <td>Mini Comm Number</td>
+                    <td>@Model.MiniCommNumber</td>
+                </tr>
+                <tr>
+                    <td>Is New Shop</td>
+                    <td>@Model.IsNewShop</td>
+                </tr>
+                <tr>
+                    <td>Shop Flag Date</td>
+                    <td>@Model.ShopFlagDate</td>
+                </tr>
+                <tr>
+                    <td>Specialist Shop</td>
+                    <td>@Model.SpecialistShop</td>
+                </tr>
+                <tr>
+                    <td>Is Active</td>
+                    <td>@(Model.IsActive.HasValue && Model.IsActive.Value ? "Yes" : "No")</td>
+                </tr>
+                <tr>
+                    <td>Media Contact Name</td>
+                    <td>@Model.MediaContactName</td>
+                </tr>
+                <tr>
+                    <td>Local Demographic Notes</td>
+                    <td>@Model.LocalDemographicNotes</td>
+                </tr>
+                <tr>
+                    <td>Catering Contact</td>
+                    <td>@Model.CateringContact</td>
+                </tr>
+                <tr>
+                    <td>Catering Type</td>
+                    <td>@Model.CateringType</td>
+                </tr>
+                <tr>
+                    <td>Network</td>
+                    <td>@Model.Network</td>
+                </tr>
+                <tr>
+                    <td>Client IT Facilities Details</td>
+                    <td>@Model.ClientItfacilitiesDetails</td>
+                </tr>
+                <tr>
+                    <td>Room Availability</td>
+                    <td>@Model.RoomAvailability</td>
+                </tr>
+                <tr>
+                    <td>Travel Details</td>
+                    <td>@Model.TravelDetails</td>
+                </tr>
+                <tr>
+                    <td>Travel Nearest Bus</td>
+                    <td>@Model.TravelNearestBus</td>
+                </tr>
+                <tr>
+                    <td>Travel Nearest Rail</td>
+                    <td>@Model.TravelNearestRail</td>
+                </tr>
+                <tr>
+                    <td>Travel Nearest Airport</td>
+                    <td>@Model.TravelNearestAirport</td>
+                </tr>
+                <tr>
+                    <td>Hosting Contact</td>
+                    <td>@Model.HostingContact</td>
+                </tr>
+                <tr>
+                    <td>Visitor Parking Spaces</td>
+                    <td>@Model.VisitorParkingSpaces</td>
+                </tr>
+                <tr>
+                    <td>Visitor Parking Alternative</td>
+                    <td>@Model.VisitorParkingAlternative</td>
+                </tr>
+                <tr>
+                    <td>Address Line 1</td>
+                    <td>@Model.Address?.AddressLine1</td>
+                </tr>
+                <tr>
+                    <td>Postcode</td>
+                    <td>@Model.Address?.PostCode</td>
+                </tr>
+            </table>
+        </div>
+        <div class="button-container">
+            <a href="@Url.Action("Index")" class="btn btn-primary">Back to List</a>
+            @if (Model.IsActive.HasValue && Model.IsActive.Value)
+            {
+                <form asp-action="Deactivate" method="post" style="display:inline;" onsubmit="return confirm('Do you want to make this Premise in-active?');">
+                    <input type="hidden" name="id" value="@Model.PremiseId" />
+                    <button type="submit" class="btn btn-danger">Deactivate</button>
+                </form>
+            }
+            else
+            {
+                <form asp-action="HandleInactive" method="post" style="display:inline;">
+                    <input type="hidden" name="id" value="@Model.PremiseId" />
+                    <input type="hidden" name="activate" value="true" />
+                    <button type="submit" class="btn btn-success">Activate</button>
+                </form>
+            }
+        </div>
+    </div>
+</body>
+</html>

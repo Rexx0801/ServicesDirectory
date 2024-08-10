@@ -1,0 +1,63 @@
+﻿@model Common.Dto.VolunteeringDto
+
+<h1>Delete Volunteering Opportunity</h1>
+<hr />
+<form asp-action="Delete">
+    <input type="hidden" asp-for="VolunteeringId" />
+
+    <div class="mb-3 row">
+        <label asp-for="VolunteeringContact" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-10">
+            <p class="form-control-plaintext">@Model.VolunteeringContact</p>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label asp-for="VolunteeringPurpose" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-10">
+            <p class="form-control-plaintext">@Model.VolunteeringPurpose</p>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label asp-for="VolunteeringOpportunityDetails" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-10">
+            <p class="form-control-plaintext">@Model.VolunteeringOpportunityDetails</p>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label asp-for="StartDate" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-10">
+            <p class="form-control-plaintext">@Model.StartDate?.ToString("dd/MM/yyyy")</p>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label asp-for="EndDate" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-10">
+            <p class="form-control-plaintext">@Model.EndDate?.ToString("dd/MM/yyyy")</p>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label asp-for="VolunteerNos" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-10">
+            <p class="form-control-plaintext">@Model.VolunteerNos</p>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label asp-for="IsActive" class="col-sm-2 col-form-label"></label>
+        <div class="col-sm-10">
+            <p class="form-control-plaintext">@Model.IsActive</p>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <div class="col-sm-10 offset-sm-2">
+            <button type="submit" class="btn btn-danger">Delete</button>
+            <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+        </div>
+    </div>
+</form>

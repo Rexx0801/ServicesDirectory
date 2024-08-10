@@ -1,0 +1,115 @@
+﻿@model Common.Dto.FacilityDto
+
+<h1>Create Facility</h1>
+
+<form asp-action="Create" method="post" class="container">
+    <div class="mb-3 row">
+        <label for="FacilityType" class="col-sm-2 col-form-label">Facility Type *</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" id="FacilityType" name="FacilityType" />
+            <span class="text-danger" asp-validation-for="FacilityType"></span>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label for="FacilityDescription" class="col-sm-2 col-form-label">Facility Description *</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" id="FacilityDescription" name="FacilityDescription" />
+            <span class="text-danger" asp-validation-for="FacilityDescription"></span>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label for="RoomCapacity" class="col-sm-2 col-form-label">Room Capacity</label>
+        <div class="col-sm-10">
+            <input type="number" class="form-control" id="RoomCapacity" name="RoomCapacity" />
+            <span class="text-danger" asp-validation-for="RoomCapacity"></span>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label for="RoomSize" class="col-sm-2 col-form-label">Room Size</label>
+        <div class="col-sm-10">
+            <input type="number" class="form-control" id="RoomSize" name="RoomSize" />
+            <span class="text-danger" asp-validation-for="RoomSize"></span>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label for="ConnectivityType" class="col-sm-2 col-form-label">Connectivity Type</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" id="ConnectivityType" name="ConnectivityType" />
+            <span class="text-danger" asp-validation-for="ConnectivityType"></span>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label for="WirelessAccessInformation" class="col-sm-2 col-form-label">Wireless Access Information</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" id="WirelessAccessInformation" name="WirelessAccessInformation" />
+            <span class="text-danger" asp-validation-for="WirelessAccessInformation"></span>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label for="LeadContact" class="col-sm-2 col-form-label">Lead Contact</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" id="LeadContact" name="LeadContact" />
+            <span class="text-danger" asp-validation-for="LeadContact"></span>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label for="RoomHost" class="col-sm-2 col-form-label">Room Host</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" id="RoomHost" name="RoomHost" />
+            <span class="text-danger" asp-validation-for="RoomHost"></span>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label for="RoomAndEquipmentNotes" class="col-sm-2 col-form-label">Room and Equipment Notes</label>
+        <div class="col-sm-10">
+            <textarea class="form-control" id="RoomAndEquipmentNotes" name="RoomAndEquipmentNotes"></textarea>
+            <span class="text-danger" asp-validation-for="RoomAndEquipmentNotes"></span>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label for="IsActive" class="col-sm-2 col-form-label">Active</label>
+        <div class="col-sm-10">
+            <select name="IsActive" id="IsActive" class="form-control">
+                <option value="true">Active</option>
+                <option value="false">Inactive</option>
+            </select>
+            <span class="text-danger" asp-validation-for="IsActive"></span>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label asp-for="PremiseId" class="col-sm-2 col-form-label">Premise</label>
+        <div class="col-sm-10">
+            <select asp-for="PremiseId" class="form-control">
+                <option value="">Select Premise</option>
+                @foreach (var item in (SelectList)ViewBag.Premises)
+                {
+                    <option value="@item.Value">@item.Text</option>
+                }
+            </select>
+            <span asp-validation-for="PremiseId" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <div class="col-sm-10 offset-sm-2">
+            <button type="submit" class="btn btn-primary">Save</button>
+            <a href="/Facility/Index" class="btn btn-secondary">Back</a>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

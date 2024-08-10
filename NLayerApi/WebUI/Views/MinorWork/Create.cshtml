@@ -1,0 +1,170 @@
+﻿@model Common.Dto.MinorWorkDto
+
+<h1>Create</h1>
+
+<form action="/MinorWork/Create" method="post" class="container">
+    <div class="mb-3 row">
+        <label for="Description" class="col-sm-2 col-form-label">P/MW Description *</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" id="Description" name="Description" />
+            <span class="text-danger" asp-validation-for="Description"></span>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <legend class="col-form-label col-sm-2 pt-0">Type</legend>
+        <div class="col-sm-10">
+            <div class="form-check">
+                <input class="form-check-input" type="radio" name="WorkType" id="Project" value="Project" />
+                <label class="form-check-label" for="Project">Project</label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="radio" name="WorkType" id="MinorWorks" value="MinorWorks" />
+                <label class="form-check-label" for="MinorWorks">Minor Works</label>
+            </div>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label for="IsTBA" class="col-sm-2 col-form-label">Is TBA?</label>
+        <div class="col-sm-10">
+            <input type="hidden" name="IsMinorWorks" value="false" />
+            <input type="checkbox" class="form-check-input" id="IsTBA" name="IsMinorWorks"/>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label for="NotesActions" class="col-sm-2 col-form-label">Notes Actions</label>
+        <div class="col-sm-10">
+            <textarea class="form-control" id="NotesActions" name="NotesActions"></textarea>
+            <span class="text-danger" asp-validation-for="NotesActions"></span>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label for="EstimatedCost" class="col-sm-2 col-form-label">Estimated Cost</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" id="EstimatedCost" name="EstimatedCost"  />
+            <span class="text-danger" asp-validation-for="EstimatedCost"></span>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label for="ActualCost" class="col-sm-2 col-form-label">Actual Cost</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" id="ActualCost" name="ActualCost" />
+            <span class="text-danger" asp-validation-for="ActualCost"></span>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label for="Directorate" class="col-sm-2 col-form-label">Directorate</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" id="Directorate" name="Directorate" />
+            <span class="text-danger" asp-validation-for="Directorate"></span>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label for="Contact" class="col-sm-2 col-form-label">Contact</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" id="Contact" name="Contact"  />
+            <span class="text-danger" asp-validation-for="Contact"></span>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label for="AuthorisedByName" class="col-sm-2 col-form-label">Authorised by Name</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" id="AuthorisedByName" name="AuthorisedByName" />
+            <span class="text-danger" asp-validation-for="AuthorisedByName"></span>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label for="Status" class="col-sm-2 col-form-label">Status</label>
+        <div class="col-sm-10">
+            <select name="Status" id="Status">
+                <option value="true">Active</option>
+                <option value="false">No Active</option>
+            </select>
+        </div>
+    </div>
+    <div class="mb-3 row">
+        <label for="Status" class="col-sm-2 col-form-label">Active</label>
+        <div class="col-sm-10">
+            <select name="IsActive" id="IsActive">
+                <option value="true">Active</option>
+                <option value="false">No Active</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label for="EnqReceivedDate" class="col-sm-2 col-form-label">P/MW Enquiry Received Date *</label>
+        <div class="col-sm-10">
+            <input type="date" class="form-control" id="EnqReceivedDate" name="EnqReceivedDate" />
+            <span class="text-danger" asp-validation-for="EnqReceivedDate"></span>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label for="AuthorisedDate" class="col-sm-2 col-form-label">Authorised Date</label>
+        <div class="col-sm-10">
+            <input type="date" class="form-control" id="AuthorisedDate" name="AuthorisedDate" />
+            <span class="text-danger" asp-validation-for="AuthorisedDate"></span>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label for="ActualStartDate" class="col-sm-2 col-form-label">Actual Start Date</label>
+        <div class="col-sm-10">
+            <input type="date" class="form-control" id="ActualStartDate" name="ActualStartDate"  />
+            <span class="text-danger" asp-validation-for="ActualStartDate"></span>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label for="AnticipatedCompletion" class="col-sm-2 col-form-label">Anticipated Completion</label>
+        <div class="col-sm-10">
+            <input type="date" class="form-control" id="AnticipatedCompletion" name="AnticipatedCompletion" />
+            <span class="text-danger" asp-validation-for="AnticipatedCompletion"></span>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <label for="ActualCompletionDate" class="col-sm-2 col-form-label">Actual Completion Date</label>
+        <div class="col-sm-10">
+            <input type="date" class="form-control" id="ActualCompletionDate" name="ActualCompletionDate" />
+            <span class="text-danger" asp-validation-for="ActualCompletionDate"></span>
+        </div>
+    </div>
+
+
+    <div class="mb-3 row">
+        <label asp-for="PremiseId" class="col-sm-2 col-form-label">Premise</label>
+        <div class="col-sm-10">
+            <select asp-for="PremiseId" class="form-control">
+                <option value="">Select Premise</option>
+                @foreach (var item in (SelectList)ViewBag.Premises)
+                {
+                    <option value="@item.Value">@item.Text</option>
+                }
+            </select>
+            <span asp-validation-for="PremiseId" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="mb-3 row">
+        <div class="col-sm-10 offset-sm-2">
+            <button type="submit" class="btn btn-primary">Save</button>
+            <a href="/MinorWork/Index" class="btn btn-secondary">Back</a>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

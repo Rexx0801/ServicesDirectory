@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\ServicesDirectory_Premises_Team_4_v2\\ServicesDirectory_Premises_Team_4 (1)\\ServicesDirectory_Premises_Team_4\\NLayerApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C19EF1B5-F3BF-4AC0-A5BE-A063321F44DF}|UnitTest\\UnitTest.csproj|c:\\users\\admin\\documents\\zalo received files\\servicesdirectory_premises_team_4_v2\\servicesdirectory_premises_team_4 (1)\\servicesdirectory_premises_team_4\\nlayerapi\\unittest\\volunteercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19EF1B5-F3BF-4AC0-A5BE-A063321F44DF}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\volunteercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19EF1B5-F3BF-4AC0-A5BE-A063321F44DF}|UnitTest\\UnitTest.csproj|c:\\users\\admin\\documents\\zalo received files\\servicesdirectory_premises_team_4_v2\\servicesdirectory_premises_team_4 (1)\\servicesdirectory_premises_team_4\\nlayerapi\\unittest\\volunteeringopportunitycontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19EF1B5-F3BF-4AC0-A5BE-A063321F44DF}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\volunteeringopportunitycontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C19EF1B5-F3BF-4AC0-A5BE-A063321F44DF}|UnitTest\\UnitTest.csproj|c:\\users\\admin\\documents\\zalo received files\\servicesdirectory_premises_team_4_v2\\servicesdirectory_premises_team_4 (1)\\servicesdirectory_premises_team_4\\nlayerapi\\unittest\\volunteeringservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C19EF1B5-F3BF-4AC0-A5BE-A063321F44DF}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\volunteeringservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AB04A63-BBB1-4FE4-B392-C3DBACCB0248}|CommonWeb\\CommonWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\servicesdirectory_premises_team_4_v2\\servicesdirectory_premises_team_4 (1)\\servicesdirectory_premises_team_4\\nlayerapi\\commonweb\\dto\\volunteeringdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AB04A63-BBB1-4FE4-B392-C3DBACCB0248}|CommonWeb\\CommonWeb.csproj|solutionrelative:commonweb\\dto\\volunteeringdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC75C22-A525-43AC-AFB6-BB09A690202D}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\admin\\documents\\zalo received files\\servicesdirectory_premises_team_4_v2\\servicesdirectory_premises_team_4 (1)\\servicesdirectory_premises_team_4\\nlayerapi\\businesslogic\\services\\volunteeringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC75C22-A525-43AC-AFB6-BB09A690202D}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\services\\volunteeringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DA45C4-51E0-4A62-8D27-BD3BC3EFBD77}|NLayerApi\\NLayerApi.csproj|c:\\users\\admin\\documents\\zalo received files\\servicesdirectory_premises_team_4_v2\\servicesdirectory_premises_team_4 (1)\\servicesdirectory_premises_team_4\\nlayerapi\\nlayerapi\\controllers\\volunteeringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DA45C4-51E0-4A62-8D27-BD3BC3EFBD77}|NLayerApi\\NLayerApi.csproj|solutionrelative:nlayerapi\\controllers\\volunteeringcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA80BFB1-6927-4D10-A12B-65D6D9E5B8BF}|DataAccess\\DataAccess.csproj|c:\\users\\admin\\documents\\zalo received files\\servicesdirectory_premises_team_4_v2\\servicesdirectory_premises_team_4 (1)\\servicesdirectory_premises_team_4\\nlayerapi\\dataaccess\\entities\\volunteering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA80BFB1-6927-4D10-A12B-65D6D9E5B8BF}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\entities\\volunteering.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC75C22-A525-43AC-AFB6-BB09A690202D}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\admin\\documents\\zalo received files\\servicesdirectory_premises_team_4_v2\\servicesdirectory_premises_team_4 (1)\\servicesdirectory_premises_team_4\\nlayerapi\\businesslogic\\automapperprofile\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC75C22-A525-43AC-AFB6-BB09A690202D}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\automapperprofile\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60BAEE86-BC35-4531-A914-C17E80DBF7D7}|WebUI\\WebUI.csproj|c:\\users\\admin\\documents\\zalo received files\\servicesdirectory_premises_team_4_v2\\servicesdirectory_premises_team_4 (1)\\servicesdirectory_premises_team_4\\nlayerapi\\webui\\views\\volunteeringopportunity\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60BAEE86-BC35-4531-A914-C17E80DBF7D7}|WebUI\\WebUI.csproj|solutionrelative:webui\\views\\volunteeringopportunity\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC75C22-A525-43AC-AFB6-BB09A690202D}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\admin\\documents\\zalo received files\\servicesdirectory_premises_team_4_v2\\servicesdirectory_premises_team_4 (1)\\servicesdirectory_premises_team_4\\nlayerapi\\businesslogic\\services\\premiseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC75C22-A525-43AC-AFB6-BB09A690202D}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\services\\premiseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VolunteerControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\ServicesDirectory_Premises_Team_4_v2\\ServicesDirectory_Premises_Team_4 (1)\\ServicesDirectory_Premises_Team_4\\NLayerApi\\UnitTest\\VolunteerControllerTests.cs",
+              "RelativeDocumentMoniker": "UnitTest\\VolunteerControllerTests.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\ServicesDirectory_Premises_Team_4_v2\\ServicesDirectory_Premises_Team_4 (1)\\ServicesDirectory_Premises_Team_4\\NLayerApi\\UnitTest\\VolunteerControllerTests.cs",
+              "RelativeToolTip": "UnitTest\\VolunteerControllerTests.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAowIgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T00:30:37.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VolunteeringOpportunityControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\ServicesDirectory_Premises_Team_4_v2\\ServicesDirectory_Premises_Team_4 (1)\\ServicesDirectory_Premises_Team_4\\NLayerApi\\UnitTest\\VolunteeringOpportunityControllerTests.cs",
+              "RelativeDocumentMoniker": "UnitTest\\VolunteeringOpportunityControllerTests.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\ServicesDirectory_Premises_Team_4_v2\\ServicesDirectory_Premises_Team_4 (1)\\ServicesDirectory_Premises_Team_4\\NLayerApi\\UnitTest\\VolunteeringOpportunityControllerTests.cs",
+              "RelativeToolTip": "UnitTest\\VolunteeringOpportunityControllerTests.cs",
+              "ViewState": "AQIAALAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T00:30:31.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VolunteeringServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\ServicesDirectory_Premises_Team_4_v2\\ServicesDirectory_Premises_Team_4 (1)\\ServicesDirectory_Premises_Team_4\\NLayerApi\\UnitTest\\VolunteeringServiceTests.cs",
+              "RelativeDocumentMoniker": "UnitTest\\VolunteeringServiceTests.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\ServicesDirectory_Premises_Team_4_v2\\ServicesDirectory_Premises_Team_4 (1)\\ServicesDirectory_Premises_Team_4\\NLayerApi\\UnitTest\\VolunteeringServiceTests.cs",
+              "RelativeToolTip": "UnitTest\\VolunteeringServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T00:30:20.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAE4TAAAAAAAAAAAWwG8TAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-06T00:23:11.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VolunteeringDto.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\ServicesDirectory_Premises_Team_4_v2\\ServicesDirectory_Premises_Team_4 (1)\\ServicesDirectory_Premises_Team_4\\NLayerApi\\CommonWeb\\Dto\\VolunteeringDto.cs",
+              "RelativeDocumentMoniker": "CommonWeb\\Dto\\VolunteeringDto.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\ServicesDirectory_Premises_Team_4_v2\\ServicesDirectory_Premises_Team_4 (1)\\ServicesDirectory_Premises_Team_4\\NLayerApi\\CommonWeb\\Dto\\VolunteeringDto.cs",
+              "RelativeToolTip": "CommonWeb\\Dto\\VolunteeringDto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T00:08:04.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VolunteeringController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\ServicesDirectory_Premises_Team_4_v2\\ServicesDirectory_Premises_Team_4 (1)\\ServicesDirectory_Premises_Team_4\\NLayerApi\\NLayerApi\\Controllers\\VolunteeringController.cs",
+              "RelativeDocumentMoniker": "NLayerApi\\Controllers\\VolunteeringController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\ServicesDirectory_Premises_Team_4_v2\\ServicesDirectory_Premises_Team_4 (1)\\ServicesDirectory_Premises_Team_4\\NLayerApi\\NLayerApi\\Controllers\\VolunteeringController.cs",
+              "RelativeToolTip": "NLayerApi\\Controllers\\VolunteeringController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:51:59.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Volunteering.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\ServicesDirectory_Premises_Team_4_v2\\ServicesDirectory_Premises_Team_4 (1)\\ServicesDirectory_Premises_Team_4\\NLayerApi\\DataAccess\\Entities\\Volunteering.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\Volunteering.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\ServicesDirectory_Premises_Team_4_v2\\ServicesDirectory_Premises_Team_4 (1)\\ServicesDirectory_Premises_Team_4\\NLayerApi\\DataAccess\\Entities\\Volunteering.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\Volunteering.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:48:52.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\ServicesDirectory_Premises_Team_4_v2\\ServicesDirectory_Premises_Team_4 (1)\\ServicesDirectory_Premises_Team_4\\NLayerApi\\WebUI\\Views\\VolunteeringOpportunity\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebUI\\Views\\VolunteeringOpportunity\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\ServicesDirectory_Premises_Team_4_v2\\ServicesDirectory_Premises_Team_4 (1)\\ServicesDirectory_Premises_Team_4\\NLayerApi\\WebUI\\Views\\VolunteeringOpportunity\\Edit.cshtml",
+              "RelativeToolTip": "WebUI\\Views\\VolunteeringOpportunity\\Edit.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAwEgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T22:47:36.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VolunteeringService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\ServicesDirectory_Premises_Team_4_v2\\ServicesDirectory_Premises_Team_4 (1)\\ServicesDirectory_Premises_Team_4\\NLayerApi\\BusinessLogic\\Services\\VolunteeringService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Services\\VolunteeringService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\ServicesDirectory_Premises_Team_4_v2\\ServicesDirectory_Premises_Team_4 (1)\\ServicesDirectory_Premises_Team_4\\NLayerApi\\BusinessLogic\\Services\\VolunteeringService.cs",
+              "RelativeToolTip": "BusinessLogic\\Services\\VolunteeringService.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwEQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:45:54.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\ServicesDirectory_Premises_Team_4_v2\\ServicesDirectory_Premises_Team_4 (1)\\ServicesDirectory_Premises_Team_4\\NLayerApi\\BusinessLogic\\AutoMapperProfile\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\AutoMapperProfile\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\ServicesDirectory_Premises_Team_4_v2\\ServicesDirectory_Premises_Team_4 (1)\\ServicesDirectory_Premises_Team_4\\NLayerApi\\BusinessLogic\\AutoMapperProfile\\AutoMapperProfile.cs",
+              "RelativeToolTip": "BusinessLogic\\AutoMapperProfile\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowBoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:45:03.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PremiseService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\ServicesDirectory_Premises_Team_4_v2\\ServicesDirectory_Premises_Team_4 (1)\\ServicesDirectory_Premises_Team_4\\NLayerApi\\BusinessLogic\\Services\\PremiseService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Services\\PremiseService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\ServicesDirectory_Premises_Team_4_v2\\ServicesDirectory_Premises_Team_4 (1)\\ServicesDirectory_Premises_Team_4\\NLayerApi\\BusinessLogic\\Services\\PremiseService.cs",
+              "RelativeToolTip": "BusinessLogic\\Services\\PremiseService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T22:35:56.59Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
